@@ -183,8 +183,8 @@ key_binder:
     # - { when: has_menu, accept: Tab, send: Page_Down }
 
     # Option/Alt + ←/→ 切换光标至下/上一个拼音
-    - { when: composing, accept: Alt+Left, send: Shift+Left }
-    - { when: composing, accept: Alt+Right, send: Shift+Right }
+    - { when: composing, accept: Alt+Left, send: Page_Up }
+    - { when: composing, accept: Alt+Right, send: Page_Downt }
 
     # 翻页 - =
     - { when: has_menu, accept: minus, send: Page_Up }  # 上一页设置为 paging 时会导致直接上屏并输出减号
