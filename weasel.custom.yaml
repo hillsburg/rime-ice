@@ -1,0 +1,13 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.4
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Mon Nov 24 16:03:50 2025"
+  rime_version: 1.13.1
+patch:
+  "style/color_scheme": aqua
+  "style/font_face": 方正萤雪简体,霞骛文楷
+  "style/font_point": 22 #字号
+  "style/horizontal": true #候选词水平排布
+  "style/vertical_text": false #候选词竖排
+  "style/vertical_text_left_to_right": true #候选词竖排从左到右
