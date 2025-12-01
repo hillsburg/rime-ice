@@ -2,10 +2,10 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.17.4
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Thu Nov 27 16:50:10 2025"
+  modified_time: "Fri Nov 28 09:18:35 2025"
   rime_version: 1.13.1
 patch:
-  "style/color_scheme": simplepure
+  "style/color_scheme": aqua
   "style/font_face": "Fira Code,方正萤雪简体,霞骛文楷"
   "style/font_point": 22
   "style/horizontal": true
